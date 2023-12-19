@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Button, View, Text } from "react-native";
+import { View } from "react-native";
 import ColorCounter from "../components/colorCounter";
 
 const COLOR_INCREMENT = 15;
